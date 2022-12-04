@@ -6,7 +6,7 @@ You can easily play Sudoku puzzle by input your 9x9 matrix, use the case provide
 
 The class structure of our project likes:
 
-![image-20221204192340639]([https://github.com/georgeDuSH/sudoku_toolkit/blob/main/Auxilaries/plots/cls_pic.png])
+![image-20221204192340639]([(https://github.com/georgeDuSH/sudoku_toolkit/blob/main/Auxilaries/plots/cls_pic.png)])
 
 ## Requirements
 
