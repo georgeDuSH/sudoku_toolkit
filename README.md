@@ -261,7 +261,7 @@ solvers = [DFSSolver, DLXSolver, BrutalSolver, GeneticSolver]
 
 for solver in solvers:
     model = solver(mat)
-	model.solve()
+    model.solve()
     sol = model.solution
 ```
 
